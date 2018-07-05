@@ -1,0 +1,9 @@
+c:\users\dimkaxrsa\documents\visual studio 2012\Projects\ModuloRfidProyect\ModuloRfidProyect\bin\Debug\ModuloRfidProyect.exe.config
+c:\users\dimkaxrsa\documents\visual studio 2012\Projects\ModuloRfidProyect\ModuloRfidProyect\bin\Debug\ModuloRfidProyect.exe
+c:\users\dimkaxrsa\documents\visual studio 2012\Projects\ModuloRfidProyect\ModuloRfidProyect\bin\Debug\ModuloRfidProyect.pdb
+c:\users\dimkaxrsa\documents\visual studio 2012\Projects\ModuloRfidProyect\ModuloRfidProyect\obj\Debug\ModuloRfidProyect.Form1.resources
+c:\users\dimkaxrsa\documents\visual studio 2012\Projects\ModuloRfidProyect\ModuloRfidProyect\obj\Debug\ModuloRfidProyect.Properties.Resources.resources
+c:\users\dimkaxrsa\documents\visual studio 2012\Projects\ModuloRfidProyect\ModuloRfidProyect\obj\Debug\ModuloRfidProyect.csproj.GenerateResource.Cache
+c:\users\dimkaxrsa\documents\visual studio 2012\Projects\ModuloRfidProyect\ModuloRfidProyect\obj\Debug\ModuloRfidProyect.exe
+c:\users\dimkaxrsa\documents\visual studio 2012\Projects\ModuloRfidProyect\ModuloRfidProyect\obj\Debug\ModuloRfidProyect.pdb
+c:\users\dimkaxrsa\documents\visual studio 2012\Projects\ModuloRfidProyect\ModuloRfidProyect\obj\Debug\ModuloRfidProyect.csprojResolveAssemblyReference.cache

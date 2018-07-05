@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuloRfidProyect", "ModuloRfidProyect\ModuloRfidProyect.csproj", "{DD198950-DCAB-4A77-B2D8-A01B74EF6D58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD198950-DCAB-4A77-B2D8-A01B74EF6D58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD198950-DCAB-4A77-B2D8-A01B74EF6D58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD198950-DCAB-4A77-B2D8-A01B74EF6D58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD198950-DCAB-4A77-B2D8-A01B74EF6D58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
